@@ -1,6 +1,4 @@
 package exo2;
-
-import exo1.PrimeNumber;
 import org.junit.jupiter.api.*;
 
 public class TestIntegerOp {
