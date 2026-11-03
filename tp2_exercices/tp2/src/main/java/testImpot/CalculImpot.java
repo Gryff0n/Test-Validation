@@ -2,9 +2,9 @@ package testImpot;
 
 public class CalculImpot {
 
-    public static Double calculerImpot(Double revenu) {
+    public static Double calculerImpot(Double revenu) throws ExceptionRevenuNegatif {
         double revenuAct = revenu;
-        if(revenu<0) throw new IllegalArgumentException("negative money");
+        if(revenu<0) throw new ExceptionRevenuNegatif("negative money");
         double totImpot = revenuAct * 0.1;
         if(revenu>20000) {
             revenuAct-=20000;
