@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abbcf61d-3fa1-4ddd-a477-4e78ca75173d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Horloge/Horloge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/numbers/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Horloge/HorlogeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParametrizedTests/TestStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fromCSV/CSVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/numbers/NumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tp2_exercices/tp2/src/test/java/exo5/SommeArgentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tp2_exercices/tp2/src/test/java/exo5/SommeArgentTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="7.059864403718795E-5" />
+      <entry key="MS500" value="0.14782888695085267" />
+      <entry key="S2" value="0.63051764924289" />
+      <entry key="S5" value="0.9872901131097188" />
+      <entry key="S10" value="1.3104748493696314" />
+      <entry key="S30" value="1.7505793581462556" />
+      <entry key="S60" value="2.2786840359919913" />
+      <entry key="M2" value="3.6108672275244498" />
+      <entry key="M5" value="8.61659872992753" />
+      <entry key="M10" value="17.620452796776366" />
+      <entry key="M15" value="24.467469898299296" />
+      <entry key="M30" value="35.89177539986307" />
+      <entry key="H1" value="44.46858706716321" />
+      <entry key="H2" value="49.798117046964144" />
+      <entry key="H4" value="52.78016314019899" />
+      <entry key="D1" value="55.445929642011116" />
+      <entry key="W1" value="55.92040765198193" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000049301805274" />
+      <entry key="S5" value="1.0189297650759583" />
+      <entry key="S10" value="1.137685617608199" />
+      <entry key="S30" value="1.6271728743478282" />
+      <entry key="S60" value="2.5230468789259546" />
+      <entry key="M2" value="4.4149293739775555" />
+      <entry key="M5" value="10.232547732816503" />
+      <entry key="M10" value="18.367026594827333" />
+      <entry key="M15" value="23.656519048324277" />
+      <entry key="M30" value="31.583473919181706" />
+      <entry key="H1" value="37.06129964876187" />
+      <entry key="H2" value="40.31997020910029" />
+      <entry key="H4" value="42.10323612310135" />
+      <entry key="D1" value="43.67561379529259" />
+      <entry key="W1" value="43.95345171316365" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.018971795068672605" />
+      <entry key="MS500" value="0.45256891997715415" />
+      <entry key="S2" value="0.9129172620413382" />
+      <entry key="S5" value="1.4161813950922437" />
+      <entry key="S10" value="2.0157865668699544" />
+      <entry key="S30" value="3.172830455632838" />
+      <entry key="S60" value="4.680930099657491" />
+      <entry key="M2" value="7.951504640544285" />
+      <entry key="M5" value="18.800483273597994" />
+      <entry key="M10" value="35.94820997542727" />
+      <entry key="M15" value="48.0910683473009" />
+      <entry key="M30" value="67.4536402715552" />
+      <entry key="H1" value="81.51728150778597" />
+      <entry key="H2" value="90.11124610632088" />
+      <entry key="H4" value="94.87983095115258" />
+      <entry key="D1" value="99.12092697445054" />
+      <entry key="W1" value="99.87377074970732" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LaXbpFb2jMOSgTHC6lmWlZ3y2o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.CSVTest.toUpperCase_ShouldGeneratedTheExpectedUpperCaseValueCSVFile.executor": "Run",
+    "JUnit.HorlogeTest.executor": "Run",
+    "JUnit.NumbersTest.executor": "Coverage",
+    "JUnit.TestStrings.exceptionFourMonths_OtherAre31DaysLong.executor": "Run",
+    "JUnit.TestStrings.getValueForAMonth_IsAlwaysBetweenOneAndTwelve.executor": "Run",
+    "JUnit.TestStrings.sameMonths_Are30DaysLong.executor": "Run",
+    "JUnit.TestStrings.toLowerCaseTest.executor": "Run",
+    "JUnit.TestStrings.toUpperCaseTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/o22303698@campus.univ-orleans.fr/Test & Validation/tp3_exercices",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/fromCSV" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HorlogeTest">
+    <configuration name="CSVTest.toUpperCase_ShouldGeneratedTheExpectedUpperCaseValueCSVFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3_exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fromCSV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fromCSV" />
+      <option name="MAIN_CLASS_NAME" value="fromCSV.CSVTest" />
+      <option name="METHOD_NAME" value="toUpperCase_ShouldGeneratedTheExpectedUpperCaseValueCSVFile(java.lang.String,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HorlogeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3_exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Horloge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Horloge" />
+      <option name="MAIN_CLASS_NAME" value="Horloge.HorlogeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStrings.exceptionFourMonths_OtherAre31DaysLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3_exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParametrizedTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ParametrizedTests" />
+      <option name="MAIN_CLASS_NAME" value="ParametrizedTests.TestStrings" />
+      <option name="METHOD_NAME" value="exceptionFourMonths_OtherAre31DaysLong(java.time.Month)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStrings.getValueForAMonth_IsAlwaysBetweenOneAndTwelve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3_exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParametrizedTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ParametrizedTests" />
+      <option name="MAIN_CLASS_NAME" value="ParametrizedTests.TestStrings" />
+      <option name="METHOD_NAME" value="getValueForAMonth_IsAlwaysBetweenOneAndTwelve(java.time.Month)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStrings.sameMonths_Are30DaysLong" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp3_exercices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParametrizedTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ParametrizedTests" />
+      <option name="MAIN_CLASS_NAME" value="ParametrizedTests.TestStrings" />
+      <option name="METHOD_NAME" value="sameMonths_Are30DaysLong(java.time.Month)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HorlogeTest" />
+        <item itemvalue="JUnit.CSVTest.toUpperCase_ShouldGeneratedTheExpectedUpperCaseValueCSVFile" />
+        <item itemvalue="JUnit.TestStrings.exceptionFourMonths_OtherAre31DaysLong" />
+        <item itemvalue="JUnit.TestStrings.sameMonths_Are30DaysLong" />
+        <item itemvalue="JUnit.TestStrings.getValueForAMonth_IsAlwaysBetweenOneAndTwelve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2df11533d9fe-intellij.indexing.shared.core-IU-262.11879.100" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.11879.100" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abbcf61d-3fa1-4ddd-a477-4e78ca75173d" name="Changes" comment="" />
+      <created>1793693228761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793693228761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tp3_exercices$NumbersTest.ic" NAME="NumbersTest Coverage Results" MODIFIED="1793693851053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>numbers.*</FILTER>
+    </SUITE>
+  </component>
+</project>

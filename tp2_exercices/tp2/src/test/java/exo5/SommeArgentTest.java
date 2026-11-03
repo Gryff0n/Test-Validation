@@ -40,7 +40,7 @@ public class SommeArgentTest {
         f14CHF = null;
         f12EUR = null;
     }
-    
+
     @Test
     public void testAdd() throws UniteDistincteException {
         SommeArgent attendu = new SommeArgent(26, "CHF");
