@@ -73,4 +73,9 @@ class TestOccurrenceList {
     void testReplaceAllOccurrencesNotFound() {
         assertThrows(ValueNotFoundException.class, () -> list.replaceAllOccurrences(9, 1));
     }
+
+    void testAvgWithoutOccurrences() {
+
+    }
 }
+
